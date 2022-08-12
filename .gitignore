@@ -1,0 +1,5 @@
+node_modules/*
+package-lock.json
+firebase/adminSDK.json
+.env
+README.md
